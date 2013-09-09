@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1378701076 source:c:\users\jorgee\documents\github\eliminacomentarios\main.c
+	<stdio.h>
+	<stdlib.h>
+

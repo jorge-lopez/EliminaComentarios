@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+//Hola Mundo
+
+int main()// le gustaria una zanahoria
+{
+    printf("Hello world!\n");
+    return 0;
+	// a quien no le gusta el tanganannica ?
+}
+
